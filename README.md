@@ -1,4 +1,4 @@
-<img width="470" height="861" alt="Screenshot 2025-07-17 223443" src="https://github.com/user-attachments/assets/2a39be41-31f4-402c-a63e-758bc35e0ec7" /># Waste-Management-Project
+Waste-Management-Project
 # Smart Bin Waste Management System
 
 This project is an IoT-based Smart Waste Bin Monitoring System that uses an ESP32, GSM module, and ultrasonic sensors to track garbage levels and transmit data to a mobile app in real time.
